@@ -13,5 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T00RRE&layout=compact&theme=radical)
 
 
-📫 **Kontakt:**  
-[![LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-leski-494698347/)  
+
