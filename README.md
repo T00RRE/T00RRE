@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajLeska&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T00RRE&layout=compact&theme=radical)
 
 
 📫 **Kontakt:**  
